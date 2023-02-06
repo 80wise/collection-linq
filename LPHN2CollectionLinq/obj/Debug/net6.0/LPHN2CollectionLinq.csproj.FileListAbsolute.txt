@@ -1,0 +1,15 @@
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.csproj.AssemblyReference.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.AssemblyInfoInputs.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.AssemblyInfo.cs
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.csproj.CoreCompileInputs.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\bin\Debug\net6.0\LPHN2CollectionLinq.exe
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\bin\Debug\net6.0\LPHN2CollectionLinq.deps.json
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\bin\Debug\net6.0\LPHN2CollectionLinq.runtimeconfig.json
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\bin\Debug\net6.0\LPHN2CollectionLinq.dll
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\bin\Debug\net6.0\ref\LPHN2CollectionLinq.dll
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\bin\Debug\net6.0\LPHN2CollectionLinq.pdb
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.dll
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\ref\LPHN2CollectionLinq.dll
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.pdb
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHN2CollectionLinq\LPHN2CollectionLinq\obj\Debug\net6.0\LPHN2CollectionLinq.genruntimeconfig.cache
